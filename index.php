@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
+
+<h1>The background-image Property</h1>
+
+<p>Hello World!</p>
+
+</body>
+</html>
+
 <?PHP
 include('dbcon.php');
 function getRealIpAddr(){
@@ -22,12 +41,12 @@ $ipadd = getRealIpAddr();
 
 		if ($count>0)
 		{
-			echo "hellow";
+			echo "Record of Ragnarok";
 		}
 		else
 		{			
 			mysqli_query($con,"INSERT INTO ipadd(ip) VALUES('$ipadd')")or die(mysqli_error($con));
 
-			echo "hi";
+			echo "Record of Ragnarok";
 		}
 ?>
