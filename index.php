@@ -3,8 +3,8 @@
 <head>
 <style>
 body  {
-  background-image: url("paper.gif");
-  background-color: #cccccc;
+  background-image: url("record.jpg");
+  
 }
 </style>
 </head>
