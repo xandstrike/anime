@@ -3,16 +3,13 @@
 <head>
 <style>
 body  {
-  background-image: url("record.jpg");
+  background-image: url("ragarnok.jpg");
   
 }
 </style>
 </head>
 <body>
 
-<h1>The background-image Property</h1>
-
-<p>Hello World!</p>
 
 </body>
 </html>
