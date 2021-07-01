@@ -11,8 +11,6 @@ body  {
 <body>
 
 
-</body>
-</html>
 
 <?PHP
 include('dbcon.php');
